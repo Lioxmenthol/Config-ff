@@ -7,5 +7,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Ignis/1781989365249_8f67099cf4124437e803d5ab4bf34d64.png",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Ignis/1781989367731_Ignis%20V1.zip",
     "sort": 1
+  },
+  "Ignis-1781989424236": {
+    "hero": "Ignis",
+    "type": "Skin",
+    "skin_name": "V1",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Ignis/1781989418405_game_Screenshot_20260620-213831.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Ignis/1781989418405_game_Screenshot_20260620-213831.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Ignis/1781989421167_Ignis%20V1.zip",
+    "sort": 2
   }
 }
