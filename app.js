@@ -59,9 +59,19 @@ fetch(HERO_JSON)
 })
 .then(function(data){
 
-    allHeroes = data;
+    allHeroes = data.sort(
+        function(a,b){
 
-    renderHeroes(data);
+            return a.her.localeCompare(
+                b.her
+            );
+
+        }
+    );
+
+    renderHeroes(
+        allHeroes
+    );
 
 })
 .catch(function(err){
