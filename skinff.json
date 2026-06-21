@@ -16,5 +16,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Ignis/1781989418405_game_Screenshot_20260620-213831.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Ignis/1781989421167_Ignis%20V1.zip",
     "sort": 2
+  },
+  "D-Bee-1782002583579": {
+    "hero": "D-Bee",
+    "type": "Remove",
+    "skin_name": "Backup",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/D-Bee/1782002574554_0151a21e1ee9c19efec5b05ee6cd63d4.png",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/D-Bee/1782002574554_0151a21e1ee9c19efec5b05ee6cd63d4.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/D-Bee/1782002577148_D-Bee%20V1.zip",
+    "sort": 1
   }
 }
