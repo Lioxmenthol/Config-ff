@@ -34,5 +34,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/D-Bee/1782002627943_Screenshot_20260621-081635.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/D-Bee/1782002630434_D-Bee%20V1.zip",
     "sort": 2
+  },
+  "Santino-1782015548166": {
+    "hero": "Santino",
+    "type": "Remove",
+    "skin_name": "Backup",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Santino/1782015542731_b437f7d724b5bcc8e718ec395846b918.png",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Santino/1782015542731_b437f7d724b5bcc8e718ec395846b918.png",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/Config-ff/main/uploads/Santino/1782015545080_Santino%20Gojo.zip",
+    "sort": 1
   }
 }
