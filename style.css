@@ -2,7 +2,7 @@ body{
 margin:0;
 padding:0;
 font-family:sans-serif;
-background:#fff;
+background:#263238;
 color:#000;
 }
 
@@ -12,7 +12,7 @@ text-align:center;
 background:linear-gradient(
 180deg,
 #fff,
-#9E9E9E
+#607D8B
 );
 }
 
@@ -28,8 +28,8 @@ max-width:400px;
 padding:12px;
 margin-top:15px;
 border-radius:12px;
-border:2px solid #9E9E9E;
-background:#fff;
+border:2px solid #607D8B;
+background:#263238;
 color:#000;
 font-weight:bold;
 outline:none;
@@ -62,8 +62,8 @@ padding:8px;
 /* ========================= */
 
 .card{
-background:#fff;
-border:2px solid #9E9E9E;
+background:#263238;
+border:2px solid #607D8B;
 border-radius:12px;
 overflow:hidden;
 
@@ -95,7 +95,7 @@ display:block;
 
 object-fit:fill;
 
-background:#9E9E9E;
+background:#607D8B;
 padding:0;
 margin:0;
 }
