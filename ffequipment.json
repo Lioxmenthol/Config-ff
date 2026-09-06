@@ -1,1 +1,162 @@
-
+[
+  {
+    "item_name": "Trogon",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "85",
+    "stat_speed": "32",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Grenade / Burst Fire Mode",
+    "passive_desc": "Shotgun serbaguna dengan mode burst-fire untuk pertempuran jarak dekat dan mode pelontar granat untuk menghancurkan musuh jarak jauh."
+  },
+  {
+    "item_name": "Gloo Wall",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "0",
+    "stat_speed": "0",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Instant Cover",
+    "passive_desc": "Granat taktis utama yang saat dilempar langsung memicu munculnya dinding es instan untuk menahan semua tembakan musuh."
+  },
+  {
+    "item_name": "Gloo Melter",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "0",
+    "stat_speed": "0",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Corrosive Acid",
+    "passive_desc": "Granat khusus yang melepaskan area asam korosif setelah meledak, menghancurkan dinding Gloo Wall musuh dengan sangat cepat."
+  },
+  {
+    "item_name": "Flash Freeze",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "15",
+    "stat_speed": "0",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Frost Zone",
+    "passive_desc": "Granat es yang menciptakan zona beku setelah meledak, mengurangi movement speed dan rate of fire musuh di dalam area tersebut."
+  },
+  {
+    "item_name": "M1887",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "100",
+    "stat_speed": "62",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "High Armor Penetration",
+    "passive_desc": "Shotgun laras ganda legendaris dengan burst damage maksimal yang mampu menembus pertahanan vest musuh secara instan."
+  },
+  {
+    "item_name": "AWM",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "90",
+    "stat_speed": "65",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Extreme Sniper Range",
+    "passive_desc": "Sniper rifle dengan damage luar biasa tinggi dan jarak tembak terjauh, mampu menjatuhkan musuh dengan satu tembakan kepala."
+  },
+  {
+    "item_name": "M82B",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "90",
+    "stat_speed": "41",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Gloo Wall Piercer",
+    "passive_desc": "Sniper anti-material khusus yang pelurunya mampu menembus dinding Gloo Wall musuh dan memberikan damage ke pemain di baliknya."
+  },
+  {
+    "item_name": "Groza",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "61",
+    "stat_speed": "58",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "High Stability AR",
+    "passive_desc": "Assault Rifle terkuat di Free Fire yang memiliki damage besar dipadukan dengan stabilitas dan jarak tembak yang sangat tinggi."
+  },
+  {
+    "item_name": "MP40",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "48",
+    "stat_speed": "83",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Extreme Rate of Fire",
+    "passive_desc": "Submachine Gun (SMG) dengan kecepatan menembak tertinggi di kelasnya, sangat mendominasi untuk pertempuran jarak super dekat."
+  },
+  {
+    "item_name": "Vector",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "47",
+    "stat_speed": "81",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Akimbo Style",
+    "passive_desc": "Senjata SMG pertama di Free Fire yang bisa digunakan secara ganda (dua tangan sekaligus) untuk menggandakan fire rate."
+  },
+  {
+    "item_name": "Treatment Laser Gun",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "0",
+    "stat_speed": "62",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Teammate Healing Lock",
+    "passive_desc": "Senjata pendukung canggih yang menembakkan laser untuk memulihkan HP rekan satu tim secara konstan dari jarak dekat."
+  },
+  {
+    "item_name": "Shield Gun",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "35",
+    "stat_speed": "0",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Force Field Shield",
+    "passive_desc": "Senjata AR modifikasi yang otomatis memicu pelindung energi tipis di depan penggunanya saat sedang membidik musuh."
+  },
+  {
+    "item_name": "Charge Buster",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "0",
+    "stat_speed": "0",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Energy Charge Shot",
+    "passive_desc": "Shotgun futuristik tanpa peluru konvensional; menahan tombol tembak akan mencharge energi untuk melepaskan tembakan mematikan."
+  },
+  {
+    "item_name": "Katana",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "66",
+    "stat_speed": "88",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Melee Deflect",
+    "passive_desc": "Senjata jarak dekat ikonik para Samurai yang memiliki jangkauan tebasan paling luas dibanding senjata melee lainnya."
+  },
+  {
+    "item_name": "Pan (Panci)",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "62",
+    "stat_speed": "88",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Bullet Proof Back",
+    "passive_desc": "Alat dapur yang menjadi pelindung terbaik; saat ditaruh di belakang pinggang, panci ini kebal sepenuhnya dari segala peluru musuh."
+  },
+  {
+    "item_name": "M79 (Pelontar)",
+    "item_icon": "https://fandom.com",
+    "stat_attack": "90",
+    "stat_speed": "0",
+    "stat_lifesteal": "0",
+    "stat_crit": "0",
+    "passive_title": "Area AoE Blast",
+    "passive_desc": "Pelontar granat legendaris yang menghasilkan ledakan area sangat besar, sangat efektif meratakan satu squad di dalam ruangan."
+  }
+]
