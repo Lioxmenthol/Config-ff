@@ -15,7 +15,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Burst + Grenade Mode",
     "passive_desc": "Dual-mode weapon that fires shotgun shells and explosive grenades; useful in close combat and for flushing enemies from cover.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Gloo Wall",
@@ -34,7 +36,9 @@
     "passive_title": "Instant Cover",
     "passive_desc": "Deploys an instant Gloo Wall that blocks incoming fire and creates temporary cover.",
     "loot_id": "GlooWall",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Gloo Melter",
@@ -52,7 +56,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Corrosive Zone",
     "passive_desc": "Creates a corrosive area that damages Gloo Walls and makes them take more damage when attacked.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Flash Freeze",
@@ -70,7 +76,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Frost Zone",
     "passive_desc": "Creates a frozen zone that slows enemies and deals damage over time.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M1887",
@@ -88,7 +96,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Damage Close Range",
     "passive_desc": "Large-caliber double-barrel shotgun with very high close-range damage and strong armor penetration.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "AWM",
@@ -106,7 +116,9 @@
     "stat_armor_penetration": "20",
     "passive_title": "Extreme Sniper",
     "passive_desc": "High-damage sniper rifle with long range. Recent sniper adjustments increased armor penetration and limb damage.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Treatment Laser Gun",
@@ -124,7 +136,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Teammate Healing",
     "passive_desc": "Locks aim on a teammate and heals them at mid range.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Charge Buster",
@@ -142,7 +156,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Charged Shot",
     "passive_desc": "Holding fire charges the shot, increasing damage and range while reducing spread.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Katana",
@@ -160,7 +176,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Melee Shield",
     "passive_desc": "Melee weapon that can also provide defensive protection against bullets.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Pan",
@@ -178,7 +196,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Bullet Protection",
     "passive_desc": "Classic melee item with defensive utility against incoming fire.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M79",
@@ -196,7 +216,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Area Blast",
     "passive_desc": "Single-shot grenade launcher with explosive area damage; effective against enemies behind cover.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "AK47",
@@ -214,7 +236,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Damage Rifle",
     "passive_desc": "High-damage assault rifle with moderate range and rate of fire; recoil requires control.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "AN94",
@@ -232,7 +256,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Stable Assault Rifle",
     "passive_desc": "Reliable assault rifle with moderate damage and stable handling.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "AUG",
@@ -250,7 +276,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Built-in 2x Scope",
     "passive_desc": "Balanced assault rifle with a built-in 2x scope and fast rate of fire.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "FAMAS",
@@ -268,7 +296,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Burst Fire",
     "passive_desc": "Fires three bullets per burst and performs well at medium to long range.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "G36",
@@ -286,7 +316,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Balanced Rifle",
     "passive_desc": "Balanced assault rifle using AR ammunition.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Groza",
@@ -304,7 +336,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Airdrop Rifle",
     "passive_desc": "Rare rifle with a strong balance of damage, stability and range.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Kingfisher",
@@ -322,7 +356,9 @@
     "stat_armor_penetration": "",
     "passive_title": "2x Scope + Mobility",
     "passive_desc": "Lightweight rifle with built-in 2x scope, high fire rate and good mobility.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M14",
@@ -340,7 +376,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Long Range AR",
     "passive_desc": "Semi-automatic rifle with exceptional range.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M4A1",
@@ -358,7 +396,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Balanced Assault Rifle",
     "passive_desc": "Versatile rifle with high range and balanced handling.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "PARAFAL",
@@ -376,7 +416,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Damage Per Shot",
     "passive_desc": "Powerful assault rifle for players who prefer precision over rapid fire.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "PLASMA",
@@ -394,7 +436,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Energy Weapon",
     "passive_desc": "Energy weapon that can overheat during sustained fire.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "SCAR",
@@ -412,7 +456,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Low Recoil",
     "passive_desc": "Balanced assault rifle favored for stability and manageable recoil.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "XM8",
@@ -430,7 +476,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Built-in 2x Scope",
     "passive_desc": "Versatile rifle with built-in 2x scope, high accuracy and stable recoil.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Shield Gun",
@@ -448,7 +496,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Force Field Shield",
     "passive_desc": "Generates a force-field shield that protects the user. Current magazine capacity is 25.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "MP40",
@@ -466,7 +516,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Extreme Rate of Fire",
     "passive_desc": "Very high rate of fire for close-quarter combat.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "MP5",
@@ -484,7 +536,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Accuracy SMG",
     "passive_desc": "Fast-firing SMG with a large magazine for short to medium range.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "P90",
@@ -502,7 +556,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Large Magazine",
     "passive_desc": "Large-capacity SMG for sustained close-range fire.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Thompson",
@@ -520,7 +576,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Drum Magazine",
     "passive_desc": "High-capacity SMG with strong close-range output.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "UMP",
@@ -538,7 +596,9 @@
     "stat_armor_penetration": "70",
     "passive_title": "High Armor Penetration",
     "passive_desc": "Versatile SMG with high armor penetration.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Vector",
@@ -556,7 +616,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Akimbo SMG",
     "passive_desc": "Dual-wield capable SMG with devastating close-range firepower.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "VSS",
@@ -574,7 +636,9 @@
     "stat_armor_penetration": "",
     "passive_title": "4x Scope + Silencer",
     "passive_desc": "Scoped and silenced weapon suited to mid-range pressure.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "MAC10",
@@ -592,7 +656,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Built-in Silencer",
     "passive_desc": "High-rate-of-fire SMG with integrated silencer.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Bizon",
@@ -610,7 +676,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Large SMG Magazine",
     "passive_desc": "Close-range SMG with a large magazine.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "CG15",
@@ -628,7 +696,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Charged Energy Shot",
     "passive_desc": "Energy-based SMG that can charge a high-damage shot.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M1014",
@@ -646,7 +716,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Damage",
     "passive_desc": "Close-range pump-action shotgun.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M590",
@@ -664,7 +736,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Pump Action Power",
     "passive_desc": "Reliable close-range pump-action shotgun.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "MAG-7",
@@ -682,7 +756,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Fast Fire Shotgun",
     "passive_desc": "Fast-firing shotgun with an eight-round magazine.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "SPAS12",
@@ -700,7 +776,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Damage Shotgun",
     "passive_desc": "Very powerful short-range shotgun; missed shots are costly.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Gatling",
@@ -718,7 +796,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Extreme Firepower",
     "passive_desc": "Very large magazine and strong suppressive fire, but limited mobility while firing.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Kord",
@@ -736,7 +816,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Mounted Fire Mode",
     "passive_desc": "Crouch/prone mode enables a stronger burst pattern.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M249",
@@ -754,7 +836,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Capacity LMG",
     "passive_desc": "Rare high-capacity LMG for sustained fire.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M60",
@@ -772,7 +856,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Machine Gun Mode",
     "passive_desc": "Stable LMG with a special mode that increases fire rate while aiming.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "AC80",
@@ -790,7 +876,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Double Hit Bonus",
     "passive_desc": "Two consecutive hits can trigger additional damage.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "SKS",
@@ -808,7 +896,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Built-in 4x Scope",
     "passive_desc": "Semi-automatic marksman rifle with built-in 4x scope.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "SVD",
@@ -826,7 +916,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Airdrop Marksman",
     "passive_desc": "Rare high-damage semi-automatic marksman rifle.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Winchester",
@@ -844,7 +936,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Lever Action",
     "passive_desc": "Distinctive lever-action marksman weapon.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Woodpecker",
@@ -862,25 +956,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Armor Penetration",
     "passive_desc": "Precise marksman rifle known for strong armor penetration.",
-    "icon_status": "verified_public_url"
-  },
-  {
-    "item_name": "AWM",
-    "item_icon": "https://i.imgur.com/zaJ2M3X.png",
-    "item_type": "Weapon",
-    "weapon_type": "Sniper",
-    "ammo_type": "SN Ammo",
-    "stat_damage": "90",
-    "stat_rate_of_fire": "27",
-    "stat_range": "91",
-    "stat_reload_speed": "",
-    "stat_magazine": "5",
-    "stat_accuracy": "",
-    "stat_movement_speed": "",
-    "stat_armor_penetration": "20",
-    "passive_title": "Extreme Sniper",
-    "passive_desc": "High-damage long-range sniper; recent sniper adjustments increased armor penetration.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Kar98k",
@@ -898,7 +976,9 @@
     "stat_armor_penetration": "20",
     "passive_title": "8x Scope",
     "passive_desc": "Well-balanced sniper with built-in 8x scope.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M24",
@@ -916,7 +996,9 @@
     "stat_armor_penetration": "20",
     "passive_title": "Fast Sniper",
     "passive_desc": "Fast-firing sniper suited to mid and long range.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M82B",
@@ -934,7 +1016,9 @@
     "stat_armor_penetration": "20",
     "passive_title": "Gloo Wall Penetration",
     "passive_desc": "Anti-vehicle sniper that can penetrate Gloo Walls.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "VSK94",
@@ -952,7 +1036,9 @@
     "stat_armor_penetration": "20",
     "passive_title": "Long Range Silenced",
     "passive_desc": "Silenced energy-based sniper with good accuracy.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Crossbow",
@@ -970,7 +1056,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Silent Bleeding Shot",
     "passive_desc": "Silent projectile weapon that causes damage over time and can pierce armor.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "MGL140",
@@ -988,7 +1076,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Multi Shot Launcher",
     "passive_desc": "Grenade launcher with multiple rounds and strong area damage.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "RGS-50",
@@ -1006,7 +1096,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Vehicle Lock-On",
     "passive_desc": "Long-range launcher specialized for locking onto and damaging vehicles.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Bat",
@@ -1024,7 +1116,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Melee Reach",
     "passive_desc": "Melee weapon with useful reach and mobility.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Parang",
@@ -1042,7 +1136,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Melee Shield",
     "passive_desc": "Sword-like melee weapon with defensive utility.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Scythe",
@@ -1060,7 +1156,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Damage Melee",
     "passive_desc": "High-damage melee weapon with relatively long reach and defensive utility.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Desert Eagle",
@@ -1078,7 +1176,9 @@
     "stat_armor_penetration": "",
     "passive_title": "High Damage Pistol",
     "passive_desc": "Heavy pistol with strong burst damage and good precision.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "G18",
@@ -1096,7 +1196,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Fast Fire Pistol",
     "passive_desc": "Fast-firing sidearm suited to close-range fights.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Hand Cannon",
@@ -1114,7 +1216,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Explosive Sidearm",
     "passive_desc": "Hand cannon using explosive ammunition with high damage.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M1873",
@@ -1132,7 +1236,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Sawed-Off Sidearm",
     "passive_desc": "Two-shot close-range secondary with shotgun-like damage.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M1917",
@@ -1150,7 +1256,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Double-Barrel Pistol",
     "passive_desc": "Sidearm with a distinctive double-shot firing concept.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "M500",
@@ -1168,7 +1276,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Built-in 2x Scope",
     "passive_desc": "Long-range revolver with built-in 2x scope.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "USP",
@@ -1186,7 +1296,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Balanced Sidearm",
     "passive_desc": "Accurate and reliable starter pistol.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Grenade",
@@ -1204,7 +1316,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Area Damage",
     "passive_desc": "Throwable explosive with area-of-effect damage.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Smoke Grenade",
@@ -1222,7 +1336,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Smoke Screen",
     "passive_desc": "Creates a smoke screen that blocks vision without directly dealing damage.",
-    "icon_status": "verified_public_url"
+    "icon_status": "verified_public_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Med Kit",
@@ -1240,7 +1356,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Medical Healing",
     "passive_desc": "Restores a large amount of HP when used.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Repair Kit",
@@ -1258,7 +1376,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Repair Armor",
     "passive_desc": "Repairs damaged armor and restores vest durability.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Inhaler",
@@ -1276,7 +1396,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Breathing Recovery",
     "passive_desc": "Restores HP while allowing movement during use.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Horizaline",
@@ -1294,7 +1416,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Special Recovery",
     "passive_desc": "Special recovery consumable used to restore player resources.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Cardiotonic",
@@ -1312,7 +1436,9 @@
     "stat_armor_penetration": "",
     "passive_title": "Maximum HP Boost",
     "passive_desc": "Temporarily increases maximum HP.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Mushroom Lv.1",
@@ -1330,7 +1456,9 @@
     "stat_armor_penetration": "",
     "passive_title": "EP Recovery",
     "passive_desc": "Restores EP from a low-level mushroom pickup.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Mushroom Lv.2",
@@ -1348,7 +1476,9 @@
     "stat_armor_penetration": "",
     "passive_title": "EP Recovery",
     "passive_desc": "Restores more EP than Mushroom Lv.1.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Mushroom Lv.3",
@@ -1366,7 +1496,9 @@
     "stat_armor_penetration": "",
     "passive_title": "EP Recovery",
     "passive_desc": "Restores more EP than Mushroom Lv.2.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Mushroom Lv.4",
@@ -1384,7 +1516,9 @@
     "stat_armor_penetration": "",
     "passive_title": "EP Recovery",
     "passive_desc": "Highest standard mushroom level for EP recovery.",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Vest Lv.1",
@@ -1404,7 +1538,9 @@
     "passive_desc": "Basic body armor that reduces incoming damage.",
     "armor_level": 1,
     "loot_id": "Vest1",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Vest Lv.2",
@@ -1424,7 +1560,9 @@
     "passive_desc": "Improved body armor with greater protection.",
     "armor_level": 2,
     "loot_id": "Vest2",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Vest Lv.3",
@@ -1444,7 +1582,9 @@
     "passive_desc": "High-level body armor for stronger protection.",
     "armor_level": 3,
     "loot_id": "Vest3",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Vest Lv.4",
@@ -1464,7 +1604,9 @@
     "passive_desc": "High-tier vest designed for stronger explosive resistance.",
     "armor_level": 4,
     "loot_id": "Vest4",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Helmet Lv.1",
@@ -1484,7 +1626,9 @@
     "passive_desc": "Helmet level 1 that reduces headshot damage.",
     "armor_level": 1,
     "loot_id": "Helmet1",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Helmet Lv.2",
@@ -1504,7 +1648,9 @@
     "passive_desc": "Helmet level 2 that reduces headshot damage.",
     "armor_level": 2,
     "loot_id": "Helmet2",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Helmet Lv.3",
@@ -1524,7 +1670,9 @@
     "passive_desc": "Helmet level 3 that reduces headshot damage.",
     "armor_level": 3,
     "loot_id": "Helmet3",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Backpack Lv.1",
@@ -1544,7 +1692,9 @@
     "passive_desc": "Level 1 backpack that increases inventory capacity (Small).",
     "backpack_level": 1,
     "loot_id": "Bag1",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Backpack Lv.2",
@@ -1564,7 +1714,9 @@
     "passive_desc": "Level 2 backpack that increases inventory capacity (Medium).",
     "backpack_level": 2,
     "loot_id": "Bag2",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Backpack Lv.3",
@@ -1584,7 +1736,9 @@
     "passive_desc": "Level 3 backpack that increases inventory capacity (Large).",
     "backpack_level": 3,
     "loot_id": "Bag3",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "AR Ammo",
@@ -1603,7 +1757,9 @@
     "passive_title": "ARAmmo",
     "passive_desc": "Rifle ammunition for assault rifles and compatible weapons.",
     "ammo_id": "ARAmmo",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "SMG Ammo",
@@ -1622,7 +1778,9 @@
     "passive_title": "SMGAmmo",
     "passive_desc": "SMG ammunition for sub-machine guns.",
     "ammo_id": "SMGAmmo",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Sniper Ammo",
@@ -1641,7 +1799,9 @@
     "passive_title": "SNAmmo",
     "passive_desc": "Sniper ammunition for sniper and compatible marksman weapons.",
     "ammo_id": "SNAmmo",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "HG Ammo",
@@ -1660,7 +1820,9 @@
     "passive_title": "HGAmmo",
     "passive_desc": "Handgun ammunition for pistols.",
     "ammo_id": "HGAmmo",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "SG Ammo",
@@ -1679,7 +1841,9 @@
     "passive_title": "SGAmmo",
     "passive_desc": "Shotgun ammunition.",
     "ammo_id": "SGAmmo",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Bow Ammo",
@@ -1698,7 +1862,9 @@
     "passive_title": "BOWAmmo",
     "passive_desc": "Arrow ammunition for bow weapons.",
     "ammo_id": "BOWAmmo",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Launcher Ammo",
@@ -1717,7 +1883,9 @@
     "passive_title": "LauncherAMMO",
     "passive_desc": "Explosive ammunition for compatible launchers.",
     "ammo_id": "LauncherAMMO",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Muzzle Lv.1",
@@ -1736,7 +1904,9 @@
     "passive_title": "Muzzle1",
     "passive_desc": "Reduces muzzle spread / improves weapon handling depending on weapon compatibility.",
     "attachment_id": "Muzzle1",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Muzzle Lv.2",
@@ -1755,7 +1925,9 @@
     "passive_title": "Muzzle2",
     "passive_desc": "Improved muzzle attachment level.",
     "attachment_id": "Muzzle2",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Muzzle Lv.3",
@@ -1774,7 +1946,9 @@
     "passive_title": "Muzzle3",
     "passive_desc": "High-level muzzle attachment.",
     "attachment_id": "Muzzle3",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Silencer",
@@ -1793,7 +1967,9 @@
     "passive_title": "Silencer",
     "passive_desc": "Reduces firing signature.",
     "attachment_id": "Silencer",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "SMG Muzzle",
@@ -1812,7 +1988,9 @@
     "passive_title": "SMGMuzzle",
     "passive_desc": "Muzzle attachment specialized for SMGs.",
     "attachment_id": "SMGMuzzle",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Shotgun Muzzle",
@@ -1831,7 +2009,9 @@
     "passive_title": "ShotgunMuzzle",
     "passive_desc": "Wide muzzle attachment for compatible shotguns.",
     "attachment_id": "ShotgunMuzzle",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Magazine Lv.1",
@@ -1850,7 +2030,9 @@
     "passive_title": "Magazine1",
     "passive_desc": "Increases magazine efficiency/capacity depending on weapon.",
     "attachment_id": "Magazine1",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Magazine Lv.2",
@@ -1869,7 +2051,9 @@
     "passive_title": "Magazine2",
     "passive_desc": "Improved magazine attachment.",
     "attachment_id": "Magazine2",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Magazine Lv.3",
@@ -1888,7 +2072,9 @@
     "passive_title": "Magazine3",
     "passive_desc": "High-level magazine attachment.",
     "attachment_id": "Magazine3",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Double Magazine",
@@ -1907,7 +2093,9 @@
     "passive_title": "DoubleMagazine",
     "passive_desc": "Special magazine attachment for compatible weapons.",
     "attachment_id": "DoubleMagazine",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "AR Magazine",
@@ -1926,7 +2114,9 @@
     "passive_title": "ARMagazine",
     "passive_desc": "Magazine attachment specialized for compatible AR weapons.",
     "attachment_id": "ARMagazine",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Foregrip Lv.1",
@@ -1945,7 +2135,9 @@
     "passive_title": "Foregrip1",
     "passive_desc": "Improves weapon stability.",
     "attachment_id": "Foregrip1",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Foregrip Lv.2",
@@ -1964,7 +2156,9 @@
     "passive_title": "Foregrip2",
     "passive_desc": "Improved stability attachment.",
     "attachment_id": "Foregrip2",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Foregrip Lv.3",
@@ -1983,7 +2177,9 @@
     "passive_title": "Foregrip3",
     "passive_desc": "High-level stability attachment.",
     "attachment_id": "Foregrip3",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Bipod",
@@ -2002,7 +2198,9 @@
     "passive_title": "Bipod",
     "passive_desc": "Foldable support attachment for compatible weapons.",
     "attachment_id": "Bipod",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Thermal Scope",
@@ -2021,7 +2219,9 @@
     "passive_title": "ThermalScope",
     "passive_desc": "Thermal imaging scope for compatible weapons.",
     "attachment_id": "ThermalScope",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Stock Lv.1",
@@ -2040,7 +2240,9 @@
     "passive_title": "Stock1",
     "passive_desc": "Improves weapon handling for compatible rifles.",
     "attachment_id": "Stock1",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Stock Lv.2",
@@ -2059,7 +2261,9 @@
     "passive_title": "Stock2",
     "passive_desc": "Improved stock attachment.",
     "attachment_id": "Stock2",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Stock Lv.3",
@@ -2078,7 +2282,9 @@
     "passive_title": "Stock3",
     "passive_desc": "High-level stock attachment.",
     "attachment_id": "Stock3",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Flashbang",
@@ -2097,7 +2303,9 @@
     "passive_title": "Flash Effect",
     "passive_desc": "Blinds/disorients enemies caught in its effect.",
     "utility_id": "Flash",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Landmine",
@@ -2116,7 +2324,9 @@
     "passive_title": "Proximity Explosion",
     "passive_desc": "Explodes when an enemy triggers the mine.",
     "utility_id": "Landmine",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Personal UAV",
@@ -2135,7 +2345,9 @@
     "passive_title": "Enemy Detection",
     "passive_desc": "Provides a temporary tactical detection function.",
     "utility_id": "PersonalUAV",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Mini Sentry",
@@ -2154,7 +2366,9 @@
     "passive_title": "Auto Defense",
     "passive_desc": "AI turret that actively searches for and attacks enemies within range.",
     "utility_id": "MiniSentry",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Dummy",
@@ -2173,7 +2387,9 @@
     "passive_title": "Decoy",
     "passive_desc": "Creates a decoy to confuse opponents.",
     "utility_id": "Dummy",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Snowball",
@@ -2192,7 +2408,9 @@
     "passive_title": "Snowball Utility",
     "passive_desc": "Throwable snowball utility item.",
     "utility_id": "SnowBall",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Electric Surfboard",
@@ -2211,7 +2429,9 @@
     "passive_title": "Mobility",
     "passive_desc": "Provides fast traversal over suitable terrain.",
     "utility_id": "ElectricSurfboard",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Flyshoe",
@@ -2230,7 +2450,9 @@
     "passive_title": "Mobility",
     "passive_desc": "Special movement item for aerial traversal.",
     "utility_id": "Flyshoe",
-    "icon_status": "not_verified_public_direct_url"
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
   },
   {
     "item_name": "Double Jump Shoe",
@@ -2249,6 +2471,376 @@
     "passive_title": "Double Jump",
     "passive_desc": "Enables enhanced jump mobility.",
     "utility_id": "DoubleJumpShoe",
+    "icon_status": "not_verified_public_direct_url",
+    "category": "",
+    "sub_category": ""
+  },
+  {
+    "item_name": "Heatgun",
+    "item_icon": "",
+    "item_type": "Weapon",
+    "category": "Rifle",
+    "sub_category": "Special",
+    "weapon_type": "Rifle",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Overheat Weapon",
+    "passive_desc": "Rifle with an overheat mechanic; current weapon listings include it among assault rifles.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "FGL-24",
+    "item_icon": "",
+    "item_type": "Weapon",
+    "category": "Launcher",
+    "sub_category": "Flame Launcher",
+    "weapon_type": "Launcher",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Explosive Flame Rounds",
+    "passive_desc": "Fires explosive rounds that can create an area flame effect.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "RGS50",
+    "item_icon": "",
+    "item_type": "Weapon",
+    "category": "Launcher",
+    "sub_category": "Anti-Materiel Launcher",
+    "weapon_type": "Launcher",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Vehicle Lock-On",
+    "passive_desc": "Launcher capable of locking onto vehicles; deals less damage to non-vehicle units.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "SN Ammo",
+    "item_icon": "",
+    "item_type": "Ammo",
+    "category": "Ammunition",
+    "sub_category": "Sniper",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Sniper Ammunition",
+    "passive_desc": "Ammunition for compatible sniper weapons.",
+    "icon_status": "not_verified_public_direct_url",
+    "ammo_id": "SNAmmo"
+  },
+  {
+    "item_name": "2x Scope",
+    "item_icon": "",
+    "item_type": "Attachment",
+    "category": "Scope",
+    "sub_category": "Scope2x",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "2x Magnification",
+    "passive_desc": "Provides 2x optical magnification.",
+    "icon_status": "not_verified_public_direct_url",
+    "attachment_id": "Scope2x"
+  },
+  {
+    "item_name": "4x Scope",
+    "item_icon": "",
+    "item_type": "Attachment",
+    "category": "Scope",
+    "sub_category": "Scope4x",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "4x Magnification",
+    "passive_desc": "Provides 4x optical magnification.",
+    "icon_status": "not_verified_public_direct_url",
+    "attachment_id": "Scope4x"
+  },
+  {
+    "item_name": "8x Scope",
+    "item_icon": "",
+    "item_type": "Attachment",
+    "category": "Scope",
+    "sub_category": "Scope8x",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "8x Magnification",
+    "passive_desc": "Provides 8x optical magnification.",
+    "icon_status": "not_verified_public_direct_url",
+    "attachment_id": "Scope8x"
+  },
+  {
+    "item_name": "Bonfire",
+    "item_icon": "",
+    "item_type": "Utility",
+    "category": "Utility",
+    "sub_category": "Bonfire",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Recovery",
+    "passive_desc": "Creates a recovery zone.",
+    "icon_status": "not_verified_public_direct_url",
+    "utility_id": "Bonfire"
+  },
+  {
+    "item_name": "Armor Crate",
+    "item_icon": "",
+    "item_type": "Utility",
+    "category": "Utility",
+    "sub_category": "ArmorCrate",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Armor",
+    "passive_desc": "Provides armor-related loot.",
+    "icon_status": "not_verified_public_direct_url",
+    "utility_id": "ArmorCrate"
+  },
+  {
+    "item_name": "Hypercrate",
+    "item_icon": "",
+    "item_type": "Utility",
+    "category": "Utility",
+    "sub_category": "Hypercrate",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Loot Crate",
+    "passive_desc": "Special crate that unlocks after a delay and can reveal high-value loot.",
+    "icon_status": "not_verified_public_direct_url",
+    "utility_id": "Hypercrate"
+  },
+  {
+    "item_name": "Mushroom Generator",
+    "item_icon": "",
+    "item_type": "Utility",
+    "category": "Utility",
+    "sub_category": "MushroomGenerator",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Loot Generator",
+    "passive_desc": "Generates special mushroom variants in supported modes.",
+    "icon_status": "not_verified_public_direct_url",
+    "utility_id": "MushroomGenerator"
+  },
+  {
+    "item_name": "Cyber Mushroom - Healing",
+    "item_icon": "",
+    "item_type": "Special",
+    "category": "Mode/Event",
+    "sub_category": "Event",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Cyber Mushroom - Healing",
+    "passive_desc": "Special mushroom variant that provides healing in supported modes.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "Cyber Mushroom - Speed",
+    "item_icon": "",
+    "item_type": "Special",
+    "category": "Mode/Event",
+    "sub_category": "Event",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Cyber Mushroom - Speed",
+    "passive_desc": "Special mushroom variant that provides speed-related utility in supported modes.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "Cyber Mushroom - Detective",
+    "item_icon": "",
+    "item_type": "Special",
+    "category": "Mode/Event",
+    "sub_category": "Event",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Cyber Mushroom - Detective",
+    "passive_desc": "Special mushroom variant with detection-related utility in supported modes.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "Cyber Mushroom - Wealth",
+    "item_icon": "",
+    "item_type": "Special",
+    "category": "Mode/Event",
+    "sub_category": "Event",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Cyber Mushroom - Wealth",
+    "passive_desc": "Special mushroom variant associated with loot/economy effects in supported modes.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "Kugisaki's Hammer Lv.1",
+    "item_icon": "",
+    "item_type": "Special",
+    "category": "Mode/Event",
+    "sub_category": "Event",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Kugisaki's Hammer Lv.1",
+    "passive_desc": "Event/collaboration weapon; availability depends on mode/event.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "Kugisaki's Hammer Lv.2",
+    "item_icon": "",
+    "item_type": "Special",
+    "category": "Mode/Event",
+    "sub_category": "Event",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Kugisaki's Hammer Lv.2",
+    "passive_desc": "Event/collaboration weapon; upgraded version.",
+    "icon_status": "not_verified_public_direct_url"
+  },
+  {
+    "item_name": "Kugisaki's Hammer Lv.3",
+    "item_icon": "",
+    "item_type": "Special",
+    "category": "Mode/Event",
+    "sub_category": "Event",
+    "weapon_type": "",
+    "ammo_type": "",
+    "stat_damage": "",
+    "stat_rate_of_fire": "",
+    "stat_range": "",
+    "stat_reload_speed": "",
+    "stat_magazine": "",
+    "stat_accuracy": "",
+    "stat_movement_speed": "",
+    "stat_armor_penetration": "",
+    "passive_title": "Kugisaki's Hammer Lv.3",
+    "passive_desc": "Event/collaboration weapon; highest listed upgrade level.",
     "icon_status": "not_verified_public_direct_url"
   }
 ]
