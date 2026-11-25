@@ -21,7 +21,7 @@
   },
   {
     "item_name": "Gloo Wall",
-    "item_icon": "",
+    "item_icon": "https://github.com/Lioxmenthol/Config-ff/raw/refs/heads/main/1795585067308.png",
     "item_type": "Consumable",
     "weapon_type": "",
     "ammo_type": "",
@@ -42,7 +42,7 @@
   },
   {
     "item_name": "Gloo Melter",
-    "item_icon": "",
+    "item_icon": "https://github.com/Lioxmenthol/Config-ff/raw/refs/heads/main/1795584852113.png",
     "item_type": "Throwable",
     "weapon_type": "",
     "ammo_type": "",
@@ -62,7 +62,7 @@
   },
   {
     "item_name": "Flash Freeze",
-    "item_icon": "",
+    "item_icon": "https://github.com/Lioxmenthol/Config-ff/raw/refs/heads/main/1795585088578.png",
     "item_type": "Throwable",
     "weapon_type": "",
     "ammo_type": "",
